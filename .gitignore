@@ -14,3 +14,6 @@ libmDot-*.lib
 *.lo
 *.o
 *.obj
+BUILD
+.mbed
+libmdot
